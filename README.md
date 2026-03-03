@@ -25,5 +25,3 @@ Each file in this folder represents a specific topic or concept, with code examp
 This is an ongoing learning repository, continuously updated as I explore new Python concepts and features.
 
 ---
-
-_Last updated: 6th February, 2026_
